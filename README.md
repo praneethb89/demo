@@ -1,2 +1,3 @@
-# demo
-This is a demo project
+Demo Repository
+Hi! I'm Praneeth 
+
